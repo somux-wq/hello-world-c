@@ -3,7 +3,7 @@
 A beginner C program created for the **Portfolio Building for Engineering Students** course (B25GE0101)[cite: 1, 2].
 
 ## Author
-* **Student Name:** [punit kolar][bbanahatti]
+* **Student Name:** [punit kolar][banahatti]
 * **Course:** B.Tech CSE (3rd Semester)[bengaloaru]
 
 ## Overview
